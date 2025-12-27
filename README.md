@@ -7,13 +7,6 @@ Hi! I’m **Raghuveer Kumar**, a **Final year B.Tech student in Computer Science
 - **Status:** Pre-final year student  
 - **Institution:** United Institute of Technology, Prayagraj  
 
-## 💻 Technical Skills
-- **Backend:** Java, Spring Boot, Express.js  
-- **Frontend:** React.js, HTML, CSS, JavaScript, Thymeleaf  
-- **Databases:** MySQL, PostgreSQL  
-- **AI & ML:** CNN-based image classification, Retrieval-Augmented Generation (RAG), embeddings  
-- **Tools & Platforms:** Git, GitHub, Cloud services, REST APIs  
-
 ## 🚀 Projects & Work
 - **Plantlyf** – A multimodal AI-based crop advisory system for home gardeners and small-scale growers, using image-based disease detection and context-aware recommendations.
 - **Jobsyde** – An AI-powered local job-matching platform for blue-collar workers, focusing on fairness, proximity-based hiring, and digital inclusion.
