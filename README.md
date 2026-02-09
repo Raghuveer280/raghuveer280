@@ -4,7 +4,7 @@ Hi! I’m **Raghuveer Kumar**, a **Final year B.Tech student in Computer Science
 
 ## 🎓 Academic Background
 - **Degree:** B.Tech in Computer Science & Engineering  
-- **Status:** Pre-final year student  
+- **Status:** Final year student  
 - **Institution:** United Institute of Technology, Prayagraj  
 
 ## 🚀 Projects & Work
